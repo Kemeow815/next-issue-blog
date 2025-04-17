@@ -1,15 +1,16 @@
 module.exports = {
-  name: 'Xiaojun Zhou',
-  title: 'Xiaojun Zhou',
-  description: '新生代农民工 / 金融消费者 / 共产主义接班人 ',
-  avatar: '/avatar.png',
-  logo: '/logo.svg',
-  siteUrl: 'https://www.xiaojun.im',
+  name: '喵落阁',
+  title: '克喵爱吃卤面',
+  description: '大学生 / 普通人 / 资源分享者 ',
+  avatar: 'https://weavatar.com/avatar/7614B285E795F21E780247019C4E15C4',
+  logo: '/logo.png',
+  siteUrl: 'https://net.kemiaofx.cn',
   // icon 请在 src/components/Profile.tsx 中修改
   links: [
-    { name: 'GitHub', link: 'https://github.com/xiaojundebug' },
-    { name: 'X', link: 'https://twitter.com/xiaojundebug' },
-    { name: '稀土掘金', link: 'https://juejin.cn/user/3386151543772328' },
+    { name: 'GitHub', link: 'https://github.com/Kemeow815' },
+    { name: 'X', link: 'https://twitter.com/kemiaosw' },
+    { name: 'Telegram', link: 'https://t.me/KemiaoJun' },
+    { name: '邮箱', link: 'mailto:kemiaofx@163.com' },
     { name: 'RSS', link: '/feed.xml' },
   ],
   friends: [
