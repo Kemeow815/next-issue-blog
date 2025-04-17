@@ -10,7 +10,7 @@ module.exports = {
     { name: 'GitHub', link: 'https://github.com/Kemeow815' },
     { name: 'X', link: 'https://twitter.com/kemiaosw' },
     { name: 'Telegram', link: 'https://t.me/KemiaoJun' },
-    { name: '邮箱', link: 'mailto:kemiaofx@163.com' },
+    { name: 'Mail', link: 'mailto:kemiaofx@163.com' },
     { name: 'RSS', link: '/feed.xml' },
   ],
   friends: [
