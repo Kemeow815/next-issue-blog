@@ -21,14 +21,14 @@ export default async function Home() {
       <div className="prose-container">
         <Profile />
         <p className="mt-4 break-words leading-loose">
-          你好 👋，我是一个前端开发人员（2017 ～ 至今），从事于直播行业，工作地在杭州。
+          你好 👋，我是一个普通的大二学生（2023 ～ 至今），自动化技术与应用专业，在南京双非二本学校读书。
         </p>
         <p className="mt-4 break-words leading-loose">
-          我一直对前端开发怀着浓厚的兴趣，同时也持续关注着设计领域的动态与发展，让我感到兴奋的一些事情包括
-          CSS、设计风格、动效、打造出色的组件 API、以及让界面更加生动有趣。
+          我致力于分享资源、生活记录和踩坑教程，如果你想要找什么资源，可以在<a href="mailto:kemiaoofx@163.com">邮箱</a>和<a href="https://github.com/Kemeow815/kemiaofx/issues">GitHub issues</a>找我。
+          我看到了会尽量帮助，不保成功；如果我的文章侵犯了您的权益，请同样联系我删除。
         </p>
         <p className="mt-4 break-words leading-loose">
-          除此之外我还痴迷于提高个人生产力，我认为同样一个设备或 App 在我手中总能变得更好用 😎。
+          欢迎您来到我的博客，祝您在这里得偿所愿😎。
         </p>
         <Title text={t('home-page.posts.title')} />
         <LatestPosts />
