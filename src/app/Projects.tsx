@@ -5,45 +5,45 @@ import { ArrowRight } from '@/components/icons'
 
 const projects = [
   {
-    name: 'xiaojun.im',
-    desc: 'The source code of this website',
-    url: 'https://github.com/xiaojundebug/xiaojun.im',
+    name: 'next-issue-blog',
+    desc: '在Github Issues 写博客的 Next.js 项目',
+    url: 'https://github.com/Kemeow815/next-issue-blog',
   },
   {
-    name: 'unique-ui',
-    desc: 'A mobile component library for Vue2.x',
-    url: 'https://github.com/xiaojundebug/unique-ui',
+    name: 'KaMiao Music',
+    desc: '基于 HeoMusic 开发的音乐播放器',
+    url: 'https://github.com/Kemeow815/HeoMusic',
   },
   {
-    name: 'zhuangtai',
-    desc: 'A scalable reactjs state management solution powered by RxJS',
-    url: 'https://github.com/xiaojundebug/zhuangtai',
+    name: 'blog-v3',
+    desc: '基于 nuxt 开发的博客项目',
+    url: 'https://github.com/Kemeow815/blog-v3',
   },
   {
-    name: 'ngx-popup',
-    desc: 'An angular popup component with customizable animations',
-    url: 'https://github.com/xiaojundebug/ngx-popup',
+    name: 'LibreTV-kemiao',
+    desc: '基于 LibreTV 的直播源项目',
+    url: 'https://github.com/Kemeow815/LibreTV-kemiao',
   },
-  {
-    name: 'ngx-carousel',
-    desc: 'A simple angular carousel component',
-    url: 'https://github.com/xiaojundebug/ngx-carousel',
-  },
-  {
-    name: 'hammerspoon-config',
-    desc: 'My hammerspoon scripts',
-    url: 'https://github.com/xiaojundebug/hammerspoon-config',
-  },
-  {
-    name: 'alfred-npm-search-workflow',
-    desc: 'NPM Workflow for Alfred',
-    url: 'https://github.com/xiaojundebug/alfred-npm-search-workflow',
-  },
-  {
-    name: 'alfred-system-theme',
-    desc: 'Alfred themes inspired on macOS',
-    url: 'https://github.com/xiaojundebug/alfred-system-theme',
-  },
+  // {
+  //   name: 'ngx-carousel',
+  //   desc: 'A simple angular carousel component',
+  //   url: 'https://github.com/xiaojundebug/ngx-carousel',
+  // },
+  // {
+  //   name: 'hammerspoon-config',
+  //   desc: 'My hammerspoon scripts',
+  //   url: 'https://github.com/xiaojundebug/hammerspoon-config',
+  // },
+  // {
+  //   name: 'alfred-npm-search-workflow',
+  //   desc: 'NPM Workflow for Alfred',
+  //   url: 'https://github.com/xiaojundebug/alfred-npm-search-workflow',
+  // },
+  // {
+  //   name: 'alfred-system-theme',
+  //   desc: 'Alfred themes inspired on macOS',
+  //   url: 'https://github.com/xiaojundebug/alfred-system-theme',
+  // },
 ]
 
 const Projects = () => {
