@@ -24,7 +24,7 @@ export default async function Home() {
           你好 👋，我是一个普通的大二学生（2023 ～ 至今），自动化技术与应用专业，在南京双非二本学校读书。
         </p>
         <p className="mt-4 break-words leading-loose">
-          我致力于分享资源、生活记录和踩坑教程，如果你想要找什么资源，可以在<a href="mailto:kemiaoofx@163.com">邮箱</a>和<a href="https://github.com/Kemeow815/kemiaofx/issues">GitHub issues</a>找我。
+          我致力于分享资源、生活记录和踩坑教程，如果你想要找什么资源，可以在<a href="mailto:kemiaoofx@163.com" target="_blank">邮箱</a>和<a href="https://github.com/Kemeow815/kemiaofx/issues" target="_blank">GitHub issues</a>找我。
           我看到了会尽量帮助，不保成功；如果我的文章侵犯了您的权益，请同样联系我删除。
         </p>
         <p className="mt-4 break-words leading-loose">
