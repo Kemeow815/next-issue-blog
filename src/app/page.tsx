@@ -45,7 +45,7 @@ export default async function Home() {
         <div className="text-center mt-6">
           <Link
             className="inline-flex items-center justify-center gap-1 text-zinc-400 border-b border-zinc-400/10 hover:border-zinc-400/50 transition-colors"
-            href="https://github.com/xiaojundebug?tab=repositories&sort=stargazers"
+            href="https://github.com/Kemeow815?tab=repositories&sort=stargazers"
           >
             {t('home-page.projects.view-all')}
           </Link>
